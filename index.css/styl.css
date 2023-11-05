@@ -1,1 +1,6 @@
-styl.css
+body {
+    background-color: rgba(255, 185, 80, 0.911);
+}
+p {
+    font-size: 35 px;
+}
