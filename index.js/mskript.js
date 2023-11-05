@@ -1,1 +1,0 @@
-mskript.js
